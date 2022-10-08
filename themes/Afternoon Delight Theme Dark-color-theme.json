@@ -13,7 +13,7 @@
     "breadcrumb.activeSelectionForeground": "#390040",
     "breadcrumb.background": "#290025",
     "breadcrumb.focusForeground": "#FFFCF7",
-    "breadcrumb.foreground": "#000000",
+    "breadcrumb.foreground": "#88B7B5",
     "breadcrumbPicker.background": "#290025",
     "button.background": "#39004050",
     "contrastBorder": "#39004040",
@@ -72,7 +72,7 @@
     "gitDecoration.conflictingResourceForeground": "#847996",
     "gitDecoration.deletedResourceForeground": "#F1AB86",
     "gitDecoration.ignoredResourceForeground": "#390040",
-    "gitDecoration.modifiedResourceForeground": "#000000",
+    "gitDecoration.modifiedResourceForeground": "#88B7B5",
     "gitDecoration.untrackedResourceForeground": "#F7DBA7",
     "input.background": "#35012C",
     "input.border": "#FFFBFA10",
@@ -286,7 +286,7 @@
         "entity.name.type.module.js"
       ],
       "settings": {
-        "foreground": "#000000"
+        "foreground": "#88B7B5"
       }
     },
     {
@@ -370,7 +370,7 @@
         "variable.other.property.js"
       ],
       "settings": {
-        "foreground": "#000000",
+        "foreground": "#88B7B5",
         "fontStyle": ""
       }
     },
@@ -486,7 +486,7 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#000000"
+        "foreground": "#88B7B5"
       }
     },
     {
@@ -626,7 +626,7 @@
         "entity.name.section.markdown"
       ],
       "settings": {
-        "foreground": "#000000",
+        "foreground": "#88B7B5",
         "fontStyle": "bold"
       }
     },
