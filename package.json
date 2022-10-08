@@ -1,0 +1,33 @@
+{
+  "name": "afternoon-delight",
+  "displayName": "Afternoon Delight",
+  "description": "Afternoon Delight Theme",
+  "version": "0.0.1",
+  "publisher": "Angelxoxo757",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "delight",
+    "afternoon",
+    "dark",
+    "theme",
+    "vscode"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Angelxoxo757/Afternoon-Delight-Theme-VSCode.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Afternoon Delight Theme Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Afternoon Delight Theme Dark-color-theme.json"
+      }
+    ]
+  }
+}
