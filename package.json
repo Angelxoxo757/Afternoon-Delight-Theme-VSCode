@@ -1,7 +1,7 @@
 {
-  "name": "afternoon-delight",
-  "displayName": "Afternoon Delight",
-  "description": "Afternoon Delight Theme",
+  "name": "evening-delight",
+  "displayName": "Evening Delight",
+  "description": "Evening Delight Theme",
   "version": "0.0.1",
   "publisher": "Angelxoxo757",
   "engines": {
@@ -12,7 +12,7 @@
   ],
   "keywords": [
     "delight",
-    "afternoon",
+    "evening",
     "dark",
     "theme",
     "vscode"
